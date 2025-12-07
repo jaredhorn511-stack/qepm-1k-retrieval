@@ -1,6 +1,6 @@
 """
 1,000-Pair Knowledge QEPM with Folded Space
-Integrates Patent #11 (Folded Space) for optimal speed at scale
+Integrates folded space indexing for optimal speed at scale
 
 Expected: 5-15ms per query with 95%+ accuracy
 """
@@ -258,7 +258,7 @@ def test_1k_knowledge():
     """Test 1,000-pair knowledge QEPM with folded space."""
     print("=" * 70)
     print("1K KNOWLEDGE QEPM WITH FOLDED SPACE")
-    print("Patent #11 Integration - 7×7×7×7 Folded Space")
+    print("Folded Space Indexing - 7×7×7×7 Hypercube")
     print("=" * 70)
     
     model_path = PROJECT_ROOT / "scaling" / "qepm_knowledge_1k_output" / "qepm_knowledge_1k"
@@ -369,7 +369,7 @@ def test_1k_knowledge():
     print(f"   ✅ 1,000 Q&A pairs across 12 domains")
     print(f"   ✅ {accuracy*100:.0f}% accuracy")
     print(f"   ✅ {np.mean(times):.1f}ms average speed")
-    print(f"   ✅ Patent #11 (Folded Space) integrated")
+    print(f"   ✅ Folded space indexing integrated")
     print(f"   ✅ 7×7×7×7 = 2,401 bucket indexing")
     print(f"   ✅ Production-ready at scale!")
     
