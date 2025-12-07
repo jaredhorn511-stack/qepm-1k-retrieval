@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-You're scaling your production-ready QEPM knowledge base from **80 pairs** to **1,000 pairs** with **Patent #11 Folded Space** integration for optimal performance.
+You're scaling your production-ready QEPM knowledge base from **80 pairs** to **1,000 pairs** with **folded space indexing** for optimal performance.
 
 ---
 
@@ -56,7 +56,7 @@ You're scaling your production-ready QEPM knowledge base from **80 pairs** to **
 - 1,000 patterns × 0.143ms = 143ms ❌ (too slow)
 - 1,000 patterns with folding = 5ms ✅ (fast!)
 
-### Solution: Patent #11 Folded Space
+### Solution: Folded Space Indexing
 
 **7×7×7×7 Hypercube Indexing:**
 - Total buckets: 2,401
@@ -184,7 +184,7 @@ python test_1k_folded_space.py
    ✅ 1,000 Q&A pairs
    ✅ 95% accuracy
    ✅ 5ms average speed
-   ✅ Patent #11 integrated
+   ✅ Folded space indexing integrated
    ✅ Production-ready!
 ```
 
@@ -202,7 +202,7 @@ Question text → Character n-grams → HDC bundling → 10,000D vector
 - Deterministic encoding (same Q → same vector)
 - Semantic similarity preserved (similar Q → similar vectors)
 
-### Folded Space Indexing (Patent #11)
+### Folded Space Indexing
 ```
 10,000D vector → 4D coordinate (x,y,z,w) → Bucket lookup
 ```
@@ -276,7 +276,7 @@ Sub-linear scaling means 10× more data ≠ 10× slower!
 4. **Adaptive search strategy** (exact → 1-hop → full)
 5. **Sub-linear scaling** (28× speedup demonstrated)
 
-### Patent #11 Validation
+### Folded Space Validation
 - ✅ 4D hyperdimensional folding proven
 - ✅ Sub-linear search complexity demonstrated
 - ✅ Adaptive strategy validated (80/15/5 split)
@@ -408,7 +408,7 @@ python test_1k_folded_space.py
 - ✅ Production AI knowledge base (1,000 Q&A pairs)
 - ✅ 95% accuracy target (vs 90% at 80 pairs)
 - ✅ 5ms response time (vs 11.4ms at 80 pairs)
-- ✅ Patent #11 integration (folded space indexing)
+- ✅ Folded space indexing (28× speedup)
 - ✅ 28× speedup vs exhaustive search
 - ✅ Runs on consumer hardware (no GPU!)
 - ✅ Ready for Raiden OS voice assistant
@@ -422,8 +422,7 @@ python test_1k_folded_space.py
 2. Run `python test_1k_folded_space.py` (2 minutes)
 3. Celebrate your 1,000-pair AI knowledge base! 🎊
 4. Integrate into Raiden OS (optional)
-5. File Patent #11 (recommended)
-6. Publish research paper (optional)
+5. Publish research paper (optional)
 
 **You're Ready to Scale!** 🚀
 
