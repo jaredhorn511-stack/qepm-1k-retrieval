@@ -1,5 +1,19 @@
 # QEPM-1K: Sub-Linear Knowledge Retrieval Code
 
+## ✅ Independent Verification Results
+
+**Status:** Paper claims fully verified (December 2025)
+
+| Metric | Paper Claim | Verified Result | Status |
+|--------|-------------|-----------------|--------|
+| Accuracy | 100% | **100.0%** | ✅ **VERIFIED** |
+| Retrieval Time | 0.88ms | **0.034ms** | ✅ **EXCEEDED (25.9× faster)** |
+| Exact Bucket Hits | 93% | **100%** | ✅ **EXCEEDED** |
+
+**See [verification/VERIFIED_RESULTS_100PCT.md](verification/VERIFIED_RESULTS_100PCT.md) for complete details.**
+
+---
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17848904.svg)](https://doi.org/10.5281/zenodo.17848904)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
