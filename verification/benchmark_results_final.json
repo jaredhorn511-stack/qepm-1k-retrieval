@@ -1,0 +1,19 @@
+{
+  "retrieval_time_ms": 0.25992930636378603,
+  "encoding_time_per_query_ms": 1.905712109090907,
+  "total_pipeline_ms": 2.1656414154546932,
+  "median_retrieval_ms": 0.07555749999710315,
+  "min_retrieval_ms": 0.05766300000686897,
+  "max_retrieval_ms": 5.14671600001293,
+  "p95_retrieval_ms": 1.6385967500013976,
+  "p99_retrieval_ms": 1.7566743399808615,
+  "accuracy": 0.8309090909090909,
+  "throughput_retrievals_per_sec": 3847.199894422226,
+  "exact_bucket_pct": 1.0,
+  "avg_search_size": 18.376363636363635,
+  "strategies": {
+    "exact_bucket": 1100
+  },
+  "paper_target_ms": 0.88,
+  "achieved_target": true
+}

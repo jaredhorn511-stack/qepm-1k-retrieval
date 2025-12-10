@@ -1,0 +1,4402 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "answer": "Berlin"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "answer": "Rome"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "answer": "Madrid"
+  },
+  {
+    "question": "What is the capital of Portugal?",
+    "answer": "Lisbon"
+  },
+  {
+    "question": "What is the capital of Greece?",
+    "answer": "Athens"
+  },
+  {
+    "question": "What is the capital of Poland?",
+    "answer": "Warsaw"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answer": "Tokyo"
+  },
+  {
+    "question": "What is the capital of China?",
+    "answer": "Beijing"
+  },
+  {
+    "question": "What is the capital of India?",
+    "answer": "New Delhi"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "answer": "Mexico City"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "answer": "Buenos Aires"
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "answer": "Cairo"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "answer": "Abuja"
+  },
+  {
+    "question": "What is the capital of Kenya?",
+    "answer": "Nairobi"
+  },
+  {
+    "question": "What is the capital of Thailand?",
+    "answer": "Bangkok"
+  },
+  {
+    "question": "What is the capital of Vietnam?",
+    "answer": "Hanoi"
+  },
+  {
+    "question": "What is the capital of Indonesia?",
+    "answer": "Jakarta"
+  },
+  {
+    "question": "What is the capital of Philippines?",
+    "answer": "Manila"
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "answer": "Moscow"
+  },
+  {
+    "question": "What is the capital of Turkey?",
+    "answer": "Ankara"
+  },
+  {
+    "question": "What is the capital of Iran?",
+    "answer": "Tehran"
+  },
+  {
+    "question": "What is the capital of Iraq?",
+    "answer": "Baghdad"
+  },
+  {
+    "question": "What is the capital of Israel?",
+    "answer": "Jerusalem"
+  },
+  {
+    "question": "What is the capital of Jordan?",
+    "answer": "Amman"
+  },
+  {
+    "question": "What is the capital of Lebanon?",
+    "answer": "Beirut"
+  },
+  {
+    "question": "What is the capital of Syria?",
+    "answer": "Damascus"
+  },
+  {
+    "question": "What is the capital of Norway?",
+    "answer": "Oslo"
+  },
+  {
+    "question": "What is the capital of Sweden?",
+    "answer": "Stockholm"
+  },
+  {
+    "question": "What is the capital of Finland?",
+    "answer": "Helsinki"
+  },
+  {
+    "question": "What is the capital of Denmark?",
+    "answer": "Copenhagen"
+  },
+  {
+    "question": "What is the capital of Iceland?",
+    "answer": "Reykjavik"
+  },
+  {
+    "question": "What is the capital of Netherlands?",
+    "answer": "Amsterdam"
+  },
+  {
+    "question": "What is the capital of Belgium?",
+    "answer": "Brussels"
+  },
+  {
+    "question": "What is the capital of Switzerland?",
+    "answer": "Bern"
+  },
+  {
+    "question": "What is the capital of Austria?",
+    "answer": "Vienna"
+  },
+  {
+    "question": "What is the capital of Czech Republic?",
+    "answer": "Prague"
+  },
+  {
+    "question": "What is the capital of Hungary?",
+    "answer": "Budapest"
+  },
+  {
+    "question": "What is the capital of Romania?",
+    "answer": "Bucharest"
+  },
+  {
+    "question": "What is the capital of Bulgaria?",
+    "answer": "Sofia"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "answer": "Seoul"
+  },
+  {
+    "question": "What is the capital of North Korea?",
+    "answer": "Pyongyang"
+  },
+  {
+    "question": "What is the capital of Pakistan?",
+    "answer": "Islamabad"
+  },
+  {
+    "question": "What is the capital of Bangladesh?",
+    "answer": "Dhaka"
+  },
+  {
+    "question": "What is the capital of Sri Lanka?",
+    "answer": "Colombo"
+  },
+  {
+    "question": "What is the capital of Nepal?",
+    "answer": "Kathmandu"
+  },
+  {
+    "question": "What is the capital of Myanmar?",
+    "answer": "Naypyidaw"
+  },
+  {
+    "question": "What is 45 + 22?",
+    "answer": "67"
+  },
+  {
+    "question": "What is 46 + 27?",
+    "answer": "73"
+  },
+  {
+    "question": "What is 5 + 18?",
+    "answer": "23"
+  },
+  {
+    "question": "What is 38 + 4?",
+    "answer": "42"
+  },
+  {
+    "question": "What is 5 + 38?",
+    "answer": "43"
+  },
+  {
+    "question": "What is 6 + 7?",
+    "answer": "13"
+  },
+  {
+    "question": "What is 2 + 35?",
+    "answer": "37"
+  },
+  {
+    "question": "What is 31 + 16?",
+    "answer": "47"
+  },
+  {
+    "question": "What is 5 + 6?",
+    "answer": "11"
+  },
+  {
+    "question": "What is 44 + 6?",
+    "answer": "50"
+  },
+  {
+    "question": "What is 47 + 41?",
+    "answer": "88"
+  },
+  {
+    "question": "What is 36 + 1?",
+    "answer": "37"
+  },
+  {
+    "question": "What is 6 + 4?",
+    "answer": "10"
+  },
+  {
+    "question": "What is 22 + 10?",
+    "answer": "32"
+  },
+  {
+    "question": "What is 12 + 18?",
+    "answer": "30"
+  },
+  {
+    "question": "What is 35 + 6?",
+    "answer": "41"
+  },
+  {
+    "question": "What is 1 + 17?",
+    "answer": "18"
+  },
+  {
+    "question": "What is 26 + 28?",
+    "answer": "54"
+  },
+  {
+    "question": "What is 27 + 6?",
+    "answer": "33"
+  },
+  {
+    "question": "What is 17 + 32?",
+    "answer": "49"
+  },
+  {
+    "question": "What is 43 + 12?",
+    "answer": "55"
+  },
+  {
+    "question": "What is 40 + 39?",
+    "answer": "79"
+  },
+  {
+    "question": "What is 28 + 34?",
+    "answer": "62"
+  },
+  {
+    "question": "What is 41 + 48?",
+    "answer": "89"
+  },
+  {
+    "question": "What is 19 + 15?",
+    "answer": "34"
+  },
+  {
+    "question": "What is 31 + 30?",
+    "answer": "61"
+  },
+  {
+    "question": "What is 40 + 34?",
+    "answer": "74"
+  },
+  {
+    "question": "What is 25 + 3?",
+    "answer": "28"
+  },
+  {
+    "question": "What is 41 + 39?",
+    "answer": "80"
+  },
+  {
+    "question": "What is 25 + 50?",
+    "answer": "75"
+  },
+  {
+    "question": "What is 16 + 45?",
+    "answer": "61"
+  },
+  {
+    "question": "What is 38 + 26?",
+    "answer": "64"
+  },
+  {
+    "question": "What is 18 + 32?",
+    "answer": "50"
+  },
+  {
+    "question": "What is 13 + 48?",
+    "answer": "61"
+  },
+  {
+    "question": "What is 6 + 9?",
+    "answer": "15"
+  },
+  {
+    "question": "What is 34 + 2?",
+    "answer": "36"
+  },
+  {
+    "question": "What is 6 + 45?",
+    "answer": "51"
+  },
+  {
+    "question": "What is 3 + 13?",
+    "answer": "16"
+  },
+  {
+    "question": "What is 33 + 7?",
+    "answer": "40"
+  },
+  {
+    "question": "What is 4 + 34?",
+    "answer": "38"
+  },
+  {
+    "question": "What is 14 + 3?",
+    "answer": "17"
+  },
+  {
+    "question": "What is 34 + 16?",
+    "answer": "50"
+  },
+  {
+    "question": "What is 50 + 31?",
+    "answer": "81"
+  },
+  {
+    "question": "What is 29 + 43?",
+    "answer": "72"
+  },
+  {
+    "question": "What is 39 + 24?",
+    "answer": "63"
+  },
+  {
+    "question": "What is 10 + 50?",
+    "answer": "60"
+  },
+  {
+    "question": "What is 5 + 26?",
+    "answer": "31"
+  },
+  {
+    "question": "What is 39 + 37?",
+    "answer": "76"
+  },
+  {
+    "question": "What is 49 + 9?",
+    "answer": "58"
+  },
+  {
+    "question": "What is 12 + 45?",
+    "answer": "57"
+  },
+  {
+    "question": "What is 6 + 32?",
+    "answer": "38"
+  },
+  {
+    "question": "What is 13 + 3?",
+    "answer": "16"
+  },
+  {
+    "question": "What is 15 + 16?",
+    "answer": "31"
+  },
+  {
+    "question": "What is 49 + 9?",
+    "answer": "58"
+  },
+  {
+    "question": "What is 24 + 32?",
+    "answer": "56"
+  },
+  {
+    "question": "What is 34 + 2?",
+    "answer": "36"
+  },
+  {
+    "question": "What is 18 + 16?",
+    "answer": "34"
+  },
+  {
+    "question": "What is 32 + 13?",
+    "answer": "45"
+  },
+  {
+    "question": "What is 42 + 49?",
+    "answer": "91"
+  },
+  {
+    "question": "What is 8 + 44?",
+    "answer": "52"
+  },
+  {
+    "question": "What is 22 + 44?",
+    "answer": "66"
+  },
+  {
+    "question": "What is 30 + 32?",
+    "answer": "62"
+  },
+  {
+    "question": "What is 15 + 21?",
+    "answer": "36"
+  },
+  {
+    "question": "What is 33 + 9?",
+    "answer": "42"
+  },
+  {
+    "question": "What is 12 + 1?",
+    "answer": "13"
+  },
+  {
+    "question": "What is 40 + 34?",
+    "answer": "74"
+  },
+  {
+    "question": "What is 31 + 47?",
+    "answer": "78"
+  },
+  {
+    "question": "What is 31 + 28?",
+    "answer": "59"
+  },
+  {
+    "question": "What is 19 + 1?",
+    "answer": "20"
+  },
+  {
+    "question": "What is 2 + 1?",
+    "answer": "3"
+  },
+  {
+    "question": "What is 44 + 27?",
+    "answer": "71"
+  },
+  {
+    "question": "What is 30 + 42?",
+    "answer": "72"
+  },
+  {
+    "question": "What is 41 + 17?",
+    "answer": "58"
+  },
+  {
+    "question": "What is 46 + 46?",
+    "answer": "92"
+  },
+  {
+    "question": "What is 37 + 38?",
+    "answer": "75"
+  },
+  {
+    "question": "What is 44 + 11?",
+    "answer": "55"
+  },
+  {
+    "question": "What is 13 + 29?",
+    "answer": "42"
+  },
+  {
+    "question": "What is 22 + 17?",
+    "answer": "39"
+  },
+  {
+    "question": "What is 33 + 22?",
+    "answer": "55"
+  },
+  {
+    "question": "What is 14 + 26?",
+    "answer": "40"
+  },
+  {
+    "question": "What is 38 + 14?",
+    "answer": "52"
+  },
+  {
+    "question": "What is 8 + 34?",
+    "answer": "42"
+  },
+  {
+    "question": "What is 48 + 16?",
+    "answer": "64"
+  },
+  {
+    "question": "What is 9 + 42?",
+    "answer": "51"
+  },
+  {
+    "question": "What is 28 + 48?",
+    "answer": "76"
+  },
+  {
+    "question": "What is 37 + 35?",
+    "answer": "72"
+  },
+  {
+    "question": "What is 30 + 29?",
+    "answer": "59"
+  },
+  {
+    "question": "What is 31 + 40?",
+    "answer": "71"
+  },
+  {
+    "question": "What is 9 + 13?",
+    "answer": "22"
+  },
+  {
+    "question": "What is 15 + 18?",
+    "answer": "33"
+  },
+  {
+    "question": "What is 32 + 9?",
+    "answer": "41"
+  },
+  {
+    "question": "What is 16 + 17?",
+    "answer": "33"
+  },
+  {
+    "question": "What is 21 + 49?",
+    "answer": "70"
+  },
+  {
+    "question": "What is 25 + 11?",
+    "answer": "36"
+  },
+  {
+    "question": "What is 30 + 36?",
+    "answer": "66"
+  },
+  {
+    "question": "What is 19 + 37?",
+    "answer": "56"
+  },
+  {
+    "question": "What is 13 + 17?",
+    "answer": "30"
+  },
+  {
+    "question": "What is 31 + 43?",
+    "answer": "74"
+  },
+  {
+    "question": "What is 21 + 41?",
+    "answer": "62"
+  },
+  {
+    "question": "What is 3 + 26?",
+    "answer": "29"
+  },
+  {
+    "question": "What is 29 + 7?",
+    "answer": "36"
+  },
+  {
+    "question": "What is 6 + 15?",
+    "answer": "21"
+  },
+  {
+    "question": "What is 35 + 42?",
+    "answer": "77"
+  },
+  {
+    "question": "What is 25 + 24?",
+    "answer": "49"
+  },
+  {
+    "question": "What is 23 + 15?",
+    "answer": "38"
+  },
+  {
+    "question": "What is 3 + 17?",
+    "answer": "20"
+  },
+  {
+    "question": "What is 43 + 2?",
+    "answer": "45"
+  },
+  {
+    "question": "What is 19 + 2?",
+    "answer": "21"
+  },
+  {
+    "question": "What is 42 + 12?",
+    "answer": "54"
+  },
+  {
+    "question": "What is 6 + 31?",
+    "answer": "37"
+  },
+  {
+    "question": "What is 5 + 24?",
+    "answer": "29"
+  },
+  {
+    "question": "What is 26 + 2?",
+    "answer": "28"
+  },
+  {
+    "question": "What is 8 + 35?",
+    "answer": "43"
+  },
+  {
+    "question": "What is 50 + 39?",
+    "answer": "89"
+  },
+  {
+    "question": "What is 50 + 30?",
+    "answer": "80"
+  },
+  {
+    "question": "What is 33 + 50?",
+    "answer": "83"
+  },
+  {
+    "question": "What is 31 + 2?",
+    "answer": "33"
+  },
+  {
+    "question": "What is 38 + 32?",
+    "answer": "70"
+  },
+  {
+    "question": "What is 27 + 8?",
+    "answer": "35"
+  },
+  {
+    "question": "What is 43 + 19?",
+    "answer": "62"
+  },
+  {
+    "question": "What is 50 + 2?",
+    "answer": "52"
+  },
+  {
+    "question": "What is 8 + 9?",
+    "answer": "17"
+  },
+  {
+    "question": "What is 7 + 32?",
+    "answer": "39"
+  },
+  {
+    "question": "What is 4 + 41?",
+    "answer": "45"
+  },
+  {
+    "question": "What is 8 + 18?",
+    "answer": "26"
+  },
+  {
+    "question": "What is 15 + 9?",
+    "answer": "24"
+  },
+  {
+    "question": "What is 24 + 50?",
+    "answer": "74"
+  },
+  {
+    "question": "What is 20 + 7?",
+    "answer": "27"
+  },
+  {
+    "question": "What is 50 + 21?",
+    "answer": "71"
+  },
+  {
+    "question": "What is 30 + 34?",
+    "answer": "64"
+  },
+  {
+    "question": "What is 35 + 29?",
+    "answer": "64"
+  },
+  {
+    "question": "What is 18 + 10?",
+    "answer": "28"
+  },
+  {
+    "question": "What is 27 + 16?",
+    "answer": "43"
+  },
+  {
+    "question": "What is 23 + 28?",
+    "answer": "51"
+  },
+  {
+    "question": "What is 5 + 45?",
+    "answer": "50"
+  },
+  {
+    "question": "What is 35 + 22?",
+    "answer": "57"
+  },
+  {
+    "question": "What is 44 + 23?",
+    "answer": "67"
+  },
+  {
+    "question": "What is 11 + 27?",
+    "answer": "38"
+  },
+  {
+    "question": "What is 6 + 1?",
+    "answer": "7"
+  },
+  {
+    "question": "What is 46 + 38?",
+    "answer": "84"
+  },
+  {
+    "question": "What is 25 + 12?",
+    "answer": "37"
+  },
+  {
+    "question": "What is 4 + 16?",
+    "answer": "20"
+  },
+  {
+    "question": "What is 4 + 13?",
+    "answer": "17"
+  },
+  {
+    "question": "What is 36 + 10?",
+    "answer": "46"
+  },
+  {
+    "question": "What is 26 + 1?",
+    "answer": "27"
+  },
+  {
+    "question": "What is 32 + 11?",
+    "answer": "43"
+  },
+  {
+    "question": "What is 21 + 16?",
+    "answer": "37"
+  },
+  {
+    "question": "What is 44 + 33?",
+    "answer": "77"
+  },
+  {
+    "question": "What is 10 + 23?",
+    "answer": "33"
+  },
+  {
+    "question": "What is 43 + 41?",
+    "answer": "84"
+  },
+  {
+    "question": "What is 28 + 19?",
+    "answer": "47"
+  },
+  {
+    "question": "What is 48 + 18?",
+    "answer": "66"
+  },
+  {
+    "question": "What is 8 + 37?",
+    "answer": "45"
+  },
+  {
+    "question": "What is 33 + 25?",
+    "answer": "58"
+  },
+  {
+    "question": "What is 8 + 37?",
+    "answer": "45"
+  },
+  {
+    "question": "What is 8 + 45?",
+    "answer": "53"
+  },
+  {
+    "question": "What is 28 + 44?",
+    "answer": "72"
+  },
+  {
+    "question": "What is 8 + 45?",
+    "answer": "53"
+  },
+  {
+    "question": "What is 3 + 12?",
+    "answer": "15"
+  },
+  {
+    "question": "What is 43 + 28?",
+    "answer": "71"
+  },
+  {
+    "question": "What is 7 + 44?",
+    "answer": "51"
+  },
+  {
+    "question": "What is 48 + 25?",
+    "answer": "73"
+  },
+  {
+    "question": "What is 40 + 5?",
+    "answer": "45"
+  },
+  {
+    "question": "What is 32 + 43?",
+    "answer": "75"
+  },
+  {
+    "question": "What is 42 + 41?",
+    "answer": "83"
+  },
+  {
+    "question": "What is 7 + 33?",
+    "answer": "40"
+  },
+  {
+    "question": "What is 33 + 32?",
+    "answer": "65"
+  },
+  {
+    "question": "What is 9 + 50?",
+    "answer": "59"
+  },
+  {
+    "question": "What is 11 + 41?",
+    "answer": "52"
+  },
+  {
+    "question": "What is 38 + 40?",
+    "answer": "78"
+  },
+  {
+    "question": "What is 23 + 48?",
+    "answer": "71"
+  },
+  {
+    "question": "What is 5 + 23?",
+    "answer": "28"
+  },
+  {
+    "question": "What is 43 + 28?",
+    "answer": "71"
+  },
+  {
+    "question": "What is 46 + 39?",
+    "answer": "85"
+  },
+  {
+    "question": "What is 13 + 46?",
+    "answer": "59"
+  },
+  {
+    "question": "What is 29 + 22?",
+    "answer": "51"
+  },
+  {
+    "question": "What is 39 + 28?",
+    "answer": "67"
+  },
+  {
+    "question": "What is 32 + 36?",
+    "answer": "68"
+  },
+  {
+    "question": "What is 26 + 47?",
+    "answer": "73"
+  },
+  {
+    "question": "What is 12 + 47?",
+    "answer": "59"
+  },
+  {
+    "question": "What is 40 + 21?",
+    "answer": "61"
+  },
+  {
+    "question": "What is 38 + 29?",
+    "answer": "67"
+  },
+  {
+    "question": "What is 17 + 28?",
+    "answer": "45"
+  },
+  {
+    "question": "What is 26 + 11?",
+    "answer": "37"
+  },
+  {
+    "question": "What is 5 + 24?",
+    "answer": "29"
+  },
+  {
+    "question": "What is 41 + 27?",
+    "answer": "68"
+  },
+  {
+    "question": "What is 1 + 34?",
+    "answer": "35"
+  },
+  {
+    "question": "What is 27 + 45?",
+    "answer": "72"
+  },
+  {
+    "question": "What is 12 + 36?",
+    "answer": "48"
+  },
+  {
+    "question": "What is 47 + 27?",
+    "answer": "74"
+  },
+  {
+    "question": "What is 23 + 8?",
+    "answer": "31"
+  },
+  {
+    "question": "What is 31 + 47?",
+    "answer": "78"
+  },
+  {
+    "question": "What is 4 + 16?",
+    "answer": "20"
+  },
+  {
+    "question": "What is 13 + 28?",
+    "answer": "41"
+  },
+  {
+    "question": "What is 2 + 26?",
+    "answer": "28"
+  },
+  {
+    "question": "What is 20 + 34?",
+    "answer": "54"
+  },
+  {
+    "question": "What is 29 + 17?",
+    "answer": "46"
+  },
+  {
+    "question": "What is 9 + 26?",
+    "answer": "35"
+  },
+  {
+    "question": "What is 28 + 48?",
+    "answer": "76"
+  },
+  {
+    "question": "What is 39 + 23?",
+    "answer": "62"
+  },
+  {
+    "question": "What is 8 times 11?",
+    "answer": "88"
+  },
+  {
+    "question": "What is 7 times 12?",
+    "answer": "84"
+  },
+  {
+    "question": "What is 7 times 5?",
+    "answer": "35"
+  },
+  {
+    "question": "What is 12 times 12?",
+    "answer": "144"
+  },
+  {
+    "question": "What is 2 times 5?",
+    "answer": "10"
+  },
+  {
+    "question": "What is 5 times 4?",
+    "answer": "20"
+  },
+  {
+    "question": "What is 11 times 9?",
+    "answer": "99"
+  },
+  {
+    "question": "What is 3 times 8?",
+    "answer": "24"
+  },
+  {
+    "question": "What is 9 times 11?",
+    "answer": "99"
+  },
+  {
+    "question": "What is 8 times 7?",
+    "answer": "56"
+  },
+  {
+    "question": "What is 10 times 6?",
+    "answer": "60"
+  },
+  {
+    "question": "What is 11 times 9?",
+    "answer": "99"
+  },
+  {
+    "question": "What is 10 times 5?",
+    "answer": "50"
+  },
+  {
+    "question": "What is 6 times 11?",
+    "answer": "66"
+  },
+  {
+    "question": "What is 8 times 8?",
+    "answer": "64"
+  },
+  {
+    "question": "What is 7 times 10?",
+    "answer": "70"
+  },
+  {
+    "question": "What is 4 times 12?",
+    "answer": "48"
+  },
+  {
+    "question": "What is 7 times 7?",
+    "answer": "49"
+  },
+  {
+    "question": "What is 6 times 12?",
+    "answer": "72"
+  },
+  {
+    "question": "What is 6 times 3?",
+    "answer": "18"
+  },
+  {
+    "question": "What is 4 times 12?",
+    "answer": "48"
+  },
+  {
+    "question": "What is 11 times 4?",
+    "answer": "44"
+  },
+  {
+    "question": "What is 2 times 5?",
+    "answer": "10"
+  },
+  {
+    "question": "What is 7 times 4?",
+    "answer": "28"
+  },
+  {
+    "question": "What is 4 times 5?",
+    "answer": "20"
+  },
+  {
+    "question": "What is 6 times 3?",
+    "answer": "18"
+  },
+  {
+    "question": "What is 5 times 2?",
+    "answer": "10"
+  },
+  {
+    "question": "What is 7 times 10?",
+    "answer": "70"
+  },
+  {
+    "question": "What is 9 times 2?",
+    "answer": "18"
+  },
+  {
+    "question": "What is 8 times 9?",
+    "answer": "72"
+  },
+  {
+    "question": "What is 9 times 5?",
+    "answer": "45"
+  },
+  {
+    "question": "What is 8 times 7?",
+    "answer": "56"
+  },
+  {
+    "question": "What is 11 times 4?",
+    "answer": "44"
+  },
+  {
+    "question": "What is 2 times 9?",
+    "answer": "18"
+  },
+  {
+    "question": "What is 4 times 6?",
+    "answer": "24"
+  },
+  {
+    "question": "What is 4 times 2?",
+    "answer": "8"
+  },
+  {
+    "question": "What is 5 times 11?",
+    "answer": "55"
+  },
+  {
+    "question": "What is 3 times 5?",
+    "answer": "15"
+  },
+  {
+    "question": "What is 5 times 9?",
+    "answer": "45"
+  },
+  {
+    "question": "What is 9 times 9?",
+    "answer": "81"
+  },
+  {
+    "question": "What is 2 times 2?",
+    "answer": "4"
+  },
+  {
+    "question": "What is 10 times 12?",
+    "answer": "120"
+  },
+  {
+    "question": "What is 9 times 8?",
+    "answer": "72"
+  },
+  {
+    "question": "What is 9 times 5?",
+    "answer": "45"
+  },
+  {
+    "question": "What is 11 times 6?",
+    "answer": "66"
+  },
+  {
+    "question": "What is 7 times 6?",
+    "answer": "42"
+  },
+  {
+    "question": "What is 12 times 4?",
+    "answer": "48"
+  },
+  {
+    "question": "What is 9 times 5?",
+    "answer": "45"
+  },
+  {
+    "question": "What is 9 times 4?",
+    "answer": "36"
+  },
+  {
+    "question": "What is 10 times 9?",
+    "answer": "90"
+  },
+  {
+    "question": "What is 4 times 5?",
+    "answer": "20"
+  },
+  {
+    "question": "What is 9 times 7?",
+    "answer": "63"
+  },
+  {
+    "question": "What is 5 times 9?",
+    "answer": "45"
+  },
+  {
+    "question": "What is 10 times 8?",
+    "answer": "80"
+  },
+  {
+    "question": "What is 7 times 7?",
+    "answer": "49"
+  },
+  {
+    "question": "What is 12 times 3?",
+    "answer": "36"
+  },
+  {
+    "question": "What is 10 times 4?",
+    "answer": "40"
+  },
+  {
+    "question": "What is 2 times 4?",
+    "answer": "8"
+  },
+  {
+    "question": "What is 6 times 2?",
+    "answer": "12"
+  },
+  {
+    "question": "What is 12 times 10?",
+    "answer": "120"
+  },
+  {
+    "question": "What is 11 times 3?",
+    "answer": "33"
+  },
+  {
+    "question": "What is 5 times 4?",
+    "answer": "20"
+  },
+  {
+    "question": "What is 3 times 3?",
+    "answer": "9"
+  },
+  {
+    "question": "What is 5 times 4?",
+    "answer": "20"
+  },
+  {
+    "question": "What is 8 times 6?",
+    "answer": "48"
+  },
+  {
+    "question": "What is 6 times 9?",
+    "answer": "54"
+  },
+  {
+    "question": "What is 6 times 6?",
+    "answer": "36"
+  },
+  {
+    "question": "What is 9 times 11?",
+    "answer": "99"
+  },
+  {
+    "question": "What is 12 times 6?",
+    "answer": "72"
+  },
+  {
+    "question": "What is 8 times 7?",
+    "answer": "56"
+  },
+  {
+    "question": "What is 4 times 8?",
+    "answer": "32"
+  },
+  {
+    "question": "What is 2 times 12?",
+    "answer": "24"
+  },
+  {
+    "question": "What is 12 times 9?",
+    "answer": "108"
+  },
+  {
+    "question": "What is 8 times 3?",
+    "answer": "24"
+  },
+  {
+    "question": "What is 5 times 5?",
+    "answer": "25"
+  },
+  {
+    "question": "What is 4 times 8?",
+    "answer": "32"
+  },
+  {
+    "question": "What is 8 times 7?",
+    "answer": "56"
+  },
+  {
+    "question": "What is 10 times 9?",
+    "answer": "90"
+  },
+  {
+    "question": "What is 12 times 7?",
+    "answer": "84"
+  },
+  {
+    "question": "What is 11 times 8?",
+    "answer": "88"
+  },
+  {
+    "question": "What is 8 times 9?",
+    "answer": "72"
+  },
+  {
+    "question": "What is 12 times 2?",
+    "answer": "24"
+  },
+  {
+    "question": "What is 8 times 3?",
+    "answer": "24"
+  },
+  {
+    "question": "What is 2 times 10?",
+    "answer": "20"
+  },
+  {
+    "question": "What is 10 times 5?",
+    "answer": "50"
+  },
+  {
+    "question": "What is 6 times 11?",
+    "answer": "66"
+  },
+  {
+    "question": "What is 9 times 6?",
+    "answer": "54"
+  },
+  {
+    "question": "What is 11 times 5?",
+    "answer": "55"
+  },
+  {
+    "question": "What is 7 times 10?",
+    "answer": "70"
+  },
+  {
+    "question": "What is 5 times 6?",
+    "answer": "30"
+  },
+  {
+    "question": "What is 10 times 5?",
+    "answer": "50"
+  },
+  {
+    "question": "What is 8 times 5?",
+    "answer": "40"
+  },
+  {
+    "question": "What is 5 times 9?",
+    "answer": "45"
+  },
+  {
+    "question": "What is 2 times 2?",
+    "answer": "4"
+  },
+  {
+    "question": "What is 8 times 6?",
+    "answer": "48"
+  },
+  {
+    "question": "What is 5 times 12?",
+    "answer": "60"
+  },
+  {
+    "question": "What is 2 times 10?",
+    "answer": "20"
+  },
+  {
+    "question": "What is 3 times 3?",
+    "answer": "9"
+  },
+  {
+    "question": "What is 3 times 6?",
+    "answer": "18"
+  },
+  {
+    "question": "What is 4 times 11?",
+    "answer": "44"
+  },
+  {
+    "question": "What is 10 times 9?",
+    "answer": "90"
+  },
+  {
+    "question": "What is 3 times 2?",
+    "answer": "6"
+  },
+  {
+    "question": "What is 11 times 6?",
+    "answer": "66"
+  },
+  {
+    "question": "What is 11 times 9?",
+    "answer": "99"
+  },
+  {
+    "question": "What is 4 times 10?",
+    "answer": "40"
+  },
+  {
+    "question": "What is 11 times 7?",
+    "answer": "77"
+  },
+  {
+    "question": "What is 10 times 9?",
+    "answer": "90"
+  },
+  {
+    "question": "What is 12 times 12?",
+    "answer": "144"
+  },
+  {
+    "question": "What is 10 times 6?",
+    "answer": "60"
+  },
+  {
+    "question": "What is 5 times 5?",
+    "answer": "25"
+  },
+  {
+    "question": "What is 12 times 3?",
+    "answer": "36"
+  },
+  {
+    "question": "What is 11 times 4?",
+    "answer": "44"
+  },
+  {
+    "question": "What is 12 times 9?",
+    "answer": "108"
+  },
+  {
+    "question": "What is 4 times 9?",
+    "answer": "36"
+  },
+  {
+    "question": "What is 11 times 7?",
+    "answer": "77"
+  },
+  {
+    "question": "What is 8 times 3?",
+    "answer": "24"
+  },
+  {
+    "question": "What is 3 times 7?",
+    "answer": "21"
+  },
+  {
+    "question": "What is 8 times 4?",
+    "answer": "32"
+  },
+  {
+    "question": "What is 4 times 2?",
+    "answer": "8"
+  },
+  {
+    "question": "What is 12 times 3?",
+    "answer": "36"
+  },
+  {
+    "question": "What is 7 times 11?",
+    "answer": "77"
+  },
+  {
+    "question": "What is 4 times 9?",
+    "answer": "36"
+  },
+  {
+    "question": "What is 5 times 11?",
+    "answer": "55"
+  },
+  {
+    "question": "What is 12 times 2?",
+    "answer": "24"
+  },
+  {
+    "question": "What is 9 times 3?",
+    "answer": "27"
+  },
+  {
+    "question": "What is 11 times 8?",
+    "answer": "88"
+  },
+  {
+    "question": "What is 2 times 9?",
+    "answer": "18"
+  },
+  {
+    "question": "What is 9 times 12?",
+    "answer": "108"
+  },
+  {
+    "question": "What is 12 times 3?",
+    "answer": "36"
+  },
+  {
+    "question": "What is 10 times 12?",
+    "answer": "120"
+  },
+  {
+    "question": "What is 4 times 6?",
+    "answer": "24"
+  },
+  {
+    "question": "What is 6 times 2?",
+    "answer": "12"
+  },
+  {
+    "question": "What is 2 times 7?",
+    "answer": "14"
+  },
+  {
+    "question": "What is 10 times 6?",
+    "answer": "60"
+  },
+  {
+    "question": "What is 5 times 8?",
+    "answer": "40"
+  },
+  {
+    "question": "What is 9 times 9?",
+    "answer": "81"
+  },
+  {
+    "question": "What is 6 times 4?",
+    "answer": "24"
+  },
+  {
+    "question": "What is 3 times 4?",
+    "answer": "12"
+  },
+  {
+    "question": "What is 7 times 5?",
+    "answer": "35"
+  },
+  {
+    "question": "What is 6 times 2?",
+    "answer": "12"
+  },
+  {
+    "question": "What is 8 times 3?",
+    "answer": "24"
+  },
+  {
+    "question": "What is 7 times 2?",
+    "answer": "14"
+  },
+  {
+    "question": "What is 9 times 4?",
+    "answer": "36"
+  },
+  {
+    "question": "What is 4 times 2?",
+    "answer": "8"
+  },
+  {
+    "question": "What is 5 times 4?",
+    "answer": "20"
+  },
+  {
+    "question": "What is 10 times 2?",
+    "answer": "20"
+  },
+  {
+    "question": "What is 2 times 7?",
+    "answer": "14"
+  },
+  {
+    "question": "What is 8 times 2?",
+    "answer": "16"
+  },
+  {
+    "question": "What is 5 times 10?",
+    "answer": "50"
+  },
+  {
+    "question": "What is 9 times 11?",
+    "answer": "99"
+  },
+  {
+    "question": "What color is sky?",
+    "answer": "blue"
+  },
+  {
+    "question": "What color is grass?",
+    "answer": "green"
+  },
+  {
+    "question": "What color is ocean?",
+    "answer": "blue"
+  },
+  {
+    "question": "What color is sun?",
+    "answer": "yellow"
+  },
+  {
+    "question": "What color is snow?",
+    "answer": "white"
+  },
+  {
+    "question": "What color is coal?",
+    "answer": "black"
+  },
+  {
+    "question": "What color is fire?",
+    "answer": "red"
+  },
+  {
+    "question": "What color is wood?",
+    "answer": "brown"
+  },
+  {
+    "question": "What color is gold?",
+    "answer": "yellow"
+  },
+  {
+    "question": "What color is silver?",
+    "answer": "silver"
+  },
+  {
+    "question": "What color is apple?",
+    "answer": "red"
+  },
+  {
+    "question": "What color is banana?",
+    "answer": "yellow"
+  },
+  {
+    "question": "What color is orange?",
+    "answer": "orange"
+  },
+  {
+    "question": "What color is grape?",
+    "answer": "purple"
+  },
+  {
+    "question": "What color is cherry?",
+    "answer": "red"
+  },
+  {
+    "question": "What color is lemon?",
+    "answer": "yellow"
+  },
+  {
+    "question": "What color is lime?",
+    "answer": "green"
+  },
+  {
+    "question": "What color is tomato?",
+    "answer": "red"
+  },
+  {
+    "question": "What color is carrot?",
+    "answer": "orange"
+  },
+  {
+    "question": "What color is lettuce?",
+    "answer": "green"
+  },
+  {
+    "question": "What color is rose?",
+    "answer": "red"
+  },
+  {
+    "question": "What color is tulip?",
+    "answer": "various"
+  },
+  {
+    "question": "What color is daisy?",
+    "answer": "white"
+  },
+  {
+    "question": "What color is sunflower?",
+    "answer": "yellow"
+  },
+  {
+    "question": "What color is violet?",
+    "answer": "purple"
+  },
+  {
+    "question": "What color is lily?",
+    "answer": "white"
+  },
+  {
+    "question": "What color is orchid?",
+    "answer": "various"
+  },
+  {
+    "question": "What color is carnation?",
+    "answer": "pink"
+  },
+  {
+    "question": "What color is iris?",
+    "answer": "purple"
+  },
+  {
+    "question": "What color is peony?",
+    "answer": "pink"
+  },
+  {
+    "question": "What color is ruby?",
+    "answer": "red"
+  },
+  {
+    "question": "What color is emerald?",
+    "answer": "green"
+  },
+  {
+    "question": "What color is sapphire?",
+    "answer": "blue"
+  },
+  {
+    "question": "What color is diamond?",
+    "answer": "clear"
+  },
+  {
+    "question": "What color is amethyst?",
+    "answer": "purple"
+  },
+  {
+    "question": "What color is topaz?",
+    "answer": "yellow"
+  },
+  {
+    "question": "What color is opal?",
+    "answer": "white"
+  },
+  {
+    "question": "What color is pearl?",
+    "answer": "white"
+  },
+  {
+    "question": "What color is jade?",
+    "answer": "green"
+  },
+  {
+    "question": "What color is turquoise?",
+    "answer": "blue"
+  },
+  {
+    "question": "What color is copper?",
+    "answer": "brown"
+  },
+  {
+    "question": "What color is bronze?",
+    "answer": "brown"
+  },
+  {
+    "question": "What color is iron?",
+    "answer": "gray"
+  },
+  {
+    "question": "What color is steel?",
+    "answer": "gray"
+  },
+  {
+    "question": "What color is aluminum?",
+    "answer": "silver"
+  },
+  {
+    "question": "What color is titanium?",
+    "answer": "gray"
+  },
+  {
+    "question": "What color is platinum?",
+    "answer": "silver"
+  },
+  {
+    "question": "What color is zinc?",
+    "answer": "gray"
+  },
+  {
+    "question": "What color is lead?",
+    "answer": "gray"
+  },
+  {
+    "question": "What color is mercury?",
+    "answer": "silver"
+  },
+  {
+    "question": "What sound does a dog make?",
+    "answer": "bark"
+  },
+  {
+    "question": "What sound does a cat make?",
+    "answer": "meow"
+  },
+  {
+    "question": "What sound does a lion make?",
+    "answer": "roar"
+  },
+  {
+    "question": "What sound does a tiger make?",
+    "answer": "roar"
+  },
+  {
+    "question": "What sound does a elephant make?",
+    "answer": "trumpet"
+  },
+  {
+    "question": "What sound does a giraffe make?",
+    "answer": "silent"
+  },
+  {
+    "question": "What sound does a zebra make?",
+    "answer": "bray"
+  },
+  {
+    "question": "What sound does a horse make?",
+    "answer": "neigh"
+  },
+  {
+    "question": "What sound does a cow make?",
+    "answer": "moo"
+  },
+  {
+    "question": "What sound does a pig make?",
+    "answer": "oink"
+  },
+  {
+    "question": "What sound does a chicken make?",
+    "answer": "cluck"
+  },
+  {
+    "question": "What sound does a duck make?",
+    "answer": "quack"
+  },
+  {
+    "question": "What sound does a goose make?",
+    "answer": "honk"
+  },
+  {
+    "question": "What sound does a turkey make?",
+    "answer": "gobble"
+  },
+  {
+    "question": "What sound does a rabbit make?",
+    "answer": "squeak"
+  },
+  {
+    "question": "What sound does a mouse make?",
+    "answer": "squeak"
+  },
+  {
+    "question": "What sound does a rat make?",
+    "answer": "squeak"
+  },
+  {
+    "question": "What sound does a hamster make?",
+    "answer": "squeak"
+  },
+  {
+    "question": "What sound does a guinea pig make?",
+    "answer": "squeak"
+  },
+  {
+    "question": "What sound does a ferret make?",
+    "answer": "chatter"
+  },
+  {
+    "question": "What sound does a wolf make?",
+    "answer": "howl"
+  },
+  {
+    "question": "What sound does a fox make?",
+    "answer": "yip"
+  },
+  {
+    "question": "What sound does a bear make?",
+    "answer": "growl"
+  },
+  {
+    "question": "What sound does a deer make?",
+    "answer": "bellow"
+  },
+  {
+    "question": "What sound does a moose make?",
+    "answer": "bellow"
+  },
+  {
+    "question": "What sound does a elk make?",
+    "answer": "bugle"
+  },
+  {
+    "question": "What sound does a bison make?",
+    "answer": "grunt"
+  },
+  {
+    "question": "What sound does a buffalo make?",
+    "answer": "grunt"
+  },
+  {
+    "question": "What sound does a sheep make?",
+    "answer": "bleat"
+  },
+  {
+    "question": "What sound does a goat make?",
+    "answer": "bleat"
+  },
+  {
+    "question": "What sound does a dolphin make?",
+    "answer": "click"
+  },
+  {
+    "question": "What sound does a whale make?",
+    "answer": "sing"
+  },
+  {
+    "question": "What sound does a shark make?",
+    "answer": "growl"
+  },
+  {
+    "question": "What sound does a octopus make?",
+    "answer": "silent"
+  },
+  {
+    "question": "What sound does a squid make?",
+    "answer": "silent"
+  },
+  {
+    "question": "What sound does a crab make?",
+    "answer": "click"
+  },
+  {
+    "question": "What sound does a lobster make?",
+    "answer": "click"
+  },
+  {
+    "question": "What sound does a shrimp make?",
+    "answer": "click"
+  },
+  {
+    "question": "What sound does a fish make?",
+    "answer": "silent"
+  },
+  {
+    "question": "What sound does a seal make?",
+    "answer": "bark"
+  },
+  {
+    "question": "What sound does a eagle make?",
+    "answer": "screech"
+  },
+  {
+    "question": "What sound does a hawk make?",
+    "answer": "screech"
+  },
+  {
+    "question": "What sound does a owl make?",
+    "answer": "hoot"
+  },
+  {
+    "question": "What sound does a parrot make?",
+    "answer": "squawk"
+  },
+  {
+    "question": "What sound does a crow make?",
+    "answer": "caw"
+  },
+  {
+    "question": "What sound does a raven make?",
+    "answer": "caw"
+  },
+  {
+    "question": "What sound does a sparrow make?",
+    "answer": "chirp"
+  },
+  {
+    "question": "What sound does a robin make?",
+    "answer": "chirp"
+  },
+  {
+    "question": "What sound does a cardinal make?",
+    "answer": "chirp"
+  },
+  {
+    "question": "What sound does a blue jay make?",
+    "answer": "chirp"
+  },
+  {
+    "question": "What sound does a snake make?",
+    "answer": "hiss"
+  },
+  {
+    "question": "What sound does a lizard make?",
+    "answer": "hiss"
+  },
+  {
+    "question": "What sound does a turtle make?",
+    "answer": "hiss"
+  },
+  {
+    "question": "What sound does a frog make?",
+    "answer": "croak"
+  },
+  {
+    "question": "What sound does a toad make?",
+    "answer": "croak"
+  },
+  {
+    "question": "What sound does a salamander make?",
+    "answer": "silent"
+  },
+  {
+    "question": "What sound does a crocodile make?",
+    "answer": "hiss"
+  },
+  {
+    "question": "What sound does a alligator make?",
+    "answer": "hiss"
+  },
+  {
+    "question": "What sound does a iguana make?",
+    "answer": "hiss"
+  },
+  {
+    "question": "What sound does a gecko make?",
+    "answer": "chirp"
+  },
+  {
+    "question": "What sound does a spider make?",
+    "answer": "silent"
+  },
+  {
+    "question": "What sound does a ant make?",
+    "answer": "silent"
+  },
+  {
+    "question": "What sound does a bee make?",
+    "answer": "buzz"
+  },
+  {
+    "question": "What sound does a wasp make?",
+    "answer": "buzz"
+  },
+  {
+    "question": "What sound does a butterfly make?",
+    "answer": "silent"
+  },
+  {
+    "question": "What sound does a moth make?",
+    "answer": "silent"
+  },
+  {
+    "question": "What sound does a beetle make?",
+    "answer": "click"
+  },
+  {
+    "question": "What sound does a ladybug make?",
+    "answer": "silent"
+  },
+  {
+    "question": "What sound does a dragonfly make?",
+    "answer": "buzz"
+  },
+  {
+    "question": "What sound does a mosquito make?",
+    "answer": "buzz"
+  },
+  {
+    "question": "What sound does a monkey make?",
+    "answer": "chatter"
+  },
+  {
+    "question": "What sound does a gorilla make?",
+    "answer": "roar"
+  },
+  {
+    "question": "What sound does a chimpanzee make?",
+    "answer": "scream"
+  },
+  {
+    "question": "What sound does a orangutan make?",
+    "answer": "roar"
+  },
+  {
+    "question": "What sound does a baboon make?",
+    "answer": "bark"
+  },
+  {
+    "question": "What sound does a lemur make?",
+    "answer": "chirp"
+  },
+  {
+    "question": "What sound does a koala make?",
+    "answer": "silent"
+  },
+  {
+    "question": "What sound does a kangaroo make?",
+    "answer": "click"
+  },
+  {
+    "question": "What sound does a wallaby make?",
+    "answer": "click"
+  },
+  {
+    "question": "What sound does a wombat make?",
+    "answer": "grunt"
+  },
+  {
+    "question": "What sound does a panda make?",
+    "answer": "bleat"
+  },
+  {
+    "question": "What sound does a raccoon make?",
+    "answer": "chatter"
+  },
+  {
+    "question": "What sound does a skunk make?",
+    "answer": "hiss"
+  },
+  {
+    "question": "What sound does a badger make?",
+    "answer": "growl"
+  },
+  {
+    "question": "What sound does a otter make?",
+    "answer": "chirp"
+  },
+  {
+    "question": "What sound does a beaver make?",
+    "answer": "chirp"
+  },
+  {
+    "question": "What sound does a squirrel make?",
+    "answer": "chatter"
+  },
+  {
+    "question": "What sound does a chipmunk make?",
+    "answer": "chirp"
+  },
+  {
+    "question": "What sound does a mole make?",
+    "answer": "squeak"
+  },
+  {
+    "question": "What sound does a hedgehog make?",
+    "answer": "grunt"
+  },
+  {
+    "question": "What sound does a penguin make?",
+    "answer": "bray"
+  },
+  {
+    "question": "What sound does a flamingo make?",
+    "answer": "squawk"
+  },
+  {
+    "question": "What sound does a ostrich make?",
+    "answer": "boom"
+  },
+  {
+    "question": "What sound does a emu make?",
+    "answer": "grunt"
+  },
+  {
+    "question": "What sound does a peacock make?",
+    "answer": "screech"
+  },
+  {
+    "question": "What sound does a swan make?",
+    "answer": "honk"
+  },
+  {
+    "question": "What sound does a crane make?",
+    "answer": "trumpet"
+  },
+  {
+    "question": "What sound does a heron make?",
+    "answer": "squawk"
+  },
+  {
+    "question": "What sound does a pelican make?",
+    "answer": "grunt"
+  },
+  {
+    "question": "What sound does a albatross make?",
+    "answer": "cry"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "How many days in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "How many months in a year?",
+    "answer": "12"
+  },
+  {
+    "question": "How many hours in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many minutes in an hour?",
+    "answer": "60"
+  },
+  {
+    "question": "How many seconds in a minute?",
+    "answer": "60"
+  },
+  {
+    "question": "How many days in January?",
+    "answer": "31"
+  },
+  {
+    "question": "How many days in February?",
+    "answer": "28 or 29"
+  },
+  {
+    "question": "How many days in a year?",
+    "answer": "365"
+  },
+  {
+    "question": "How many continents?",
+    "answer": "7"
+  },
+  {
+    "question": "How many oceans?",
+    "answer": "5"
+  },
+  {
+    "question": "Who was the first US president?",
+    "answer": "George Washington"
+  },
+  {
+    "question": "Who was the 16th US president?",
+    "answer": "Abraham Lincoln"
+  },
+  {
+    "question": "Who was the UK prime minister during WWII?",
+    "answer": "Winston Churchill"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Who invented the light bulb?",
+    "answer": "Thomas Edison"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Alexander Fleming"
+  },
+  {
+    "question": "Who proposed the theory of relativity?",
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "Who wrote The Origin of Species?",
+    "answer": "Charles Darwin"
+  },
+  {
+    "question": "Who was the first US president?",
+    "answer": "George Washington"
+  },
+  {
+    "question": "Who was the 16th US president?",
+    "answer": "Abraham Lincoln"
+  },
+  {
+    "question": "Who was the UK prime minister during WWII?",
+    "answer": "Winston Churchill"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Who invented the light bulb?",
+    "answer": "Thomas Edison"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Alexander Fleming"
+  },
+  {
+    "question": "Who proposed the theory of relativity?",
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "Who wrote The Origin of Species?",
+    "answer": "Charles Darwin"
+  },
+  {
+    "question": "Who was the first US president?",
+    "answer": "George Washington"
+  },
+  {
+    "question": "Who was the 16th US president?",
+    "answer": "Abraham Lincoln"
+  },
+  {
+    "question": "Who was the UK prime minister during WWII?",
+    "answer": "Winston Churchill"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Who invented the light bulb?",
+    "answer": "Thomas Edison"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Alexander Fleming"
+  },
+  {
+    "question": "Who proposed the theory of relativity?",
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "Who wrote The Origin of Species?",
+    "answer": "Charles Darwin"
+  },
+  {
+    "question": "Who was the first US president?",
+    "answer": "George Washington"
+  },
+  {
+    "question": "Who was the 16th US president?",
+    "answer": "Abraham Lincoln"
+  },
+  {
+    "question": "Who was the UK prime minister during WWII?",
+    "answer": "Winston Churchill"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Who invented the light bulb?",
+    "answer": "Thomas Edison"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Alexander Fleming"
+  },
+  {
+    "question": "Who proposed the theory of relativity?",
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "Who wrote The Origin of Species?",
+    "answer": "Charles Darwin"
+  },
+  {
+    "question": "Who was the first US president?",
+    "answer": "George Washington"
+  },
+  {
+    "question": "Who was the 16th US president?",
+    "answer": "Abraham Lincoln"
+  },
+  {
+    "question": "Who was the UK prime minister during WWII?",
+    "answer": "Winston Churchill"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Who invented the light bulb?",
+    "answer": "Thomas Edison"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Alexander Fleming"
+  },
+  {
+    "question": "Who proposed the theory of relativity?",
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "Who wrote The Origin of Species?",
+    "answer": "Charles Darwin"
+  },
+  {
+    "question": "What is the largest ocean?",
+    "answer": "Pacific"
+  },
+  {
+    "question": "What is the largest continent?",
+    "answer": "Asia"
+  },
+  {
+    "question": "What is the tallest mountain?",
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "What is the longest river?",
+    "answer": "Nile"
+  },
+  {
+    "question": "What is the largest desert?",
+    "answer": "Sahara"
+  },
+  {
+    "question": "What is the smallest continent?",
+    "answer": "Australia"
+  },
+  {
+    "question": "What is the coldest continent?",
+    "answer": "Antarctica"
+  },
+  {
+    "question": "What is the largest country by area?",
+    "answer": "Russia"
+  },
+  {
+    "question": "What is the most populous country?",
+    "answer": "China"
+  },
+  {
+    "question": "What is the largest island?",
+    "answer": "Greenland"
+  },
+  {
+    "question": "What is the largest ocean?",
+    "answer": "Pacific"
+  },
+  {
+    "question": "What is the largest continent?",
+    "answer": "Asia"
+  },
+  {
+    "question": "What is the tallest mountain?",
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "What is the longest river?",
+    "answer": "Nile"
+  },
+  {
+    "question": "What is the largest desert?",
+    "answer": "Sahara"
+  },
+  {
+    "question": "What is the smallest continent?",
+    "answer": "Australia"
+  },
+  {
+    "question": "What is the coldest continent?",
+    "answer": "Antarctica"
+  },
+  {
+    "question": "What is the largest country by area?",
+    "answer": "Russia"
+  },
+  {
+    "question": "What is the most populous country?",
+    "answer": "China"
+  },
+  {
+    "question": "What is the largest island?",
+    "answer": "Greenland"
+  },
+  {
+    "question": "What is the largest ocean?",
+    "answer": "Pacific"
+  },
+  {
+    "question": "What is the largest continent?",
+    "answer": "Asia"
+  },
+  {
+    "question": "What is the tallest mountain?",
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "What is the longest river?",
+    "answer": "Nile"
+  },
+  {
+    "question": "What is the largest desert?",
+    "answer": "Sahara"
+  },
+  {
+    "question": "What is the smallest continent?",
+    "answer": "Australia"
+  },
+  {
+    "question": "What is the coldest continent?",
+    "answer": "Antarctica"
+  },
+  {
+    "question": "What is the largest country by area?",
+    "answer": "Russia"
+  },
+  {
+    "question": "What is the most populous country?",
+    "answer": "China"
+  },
+  {
+    "question": "What is the largest island?",
+    "answer": "Greenland"
+  },
+  {
+    "question": "What is the largest ocean?",
+    "answer": "Pacific"
+  },
+  {
+    "question": "What is the largest continent?",
+    "answer": "Asia"
+  },
+  {
+    "question": "What is the tallest mountain?",
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "What is the longest river?",
+    "answer": "Nile"
+  },
+  {
+    "question": "What is the largest desert?",
+    "answer": "Sahara"
+  },
+  {
+    "question": "What is the smallest continent?",
+    "answer": "Australia"
+  },
+  {
+    "question": "What is the coldest continent?",
+    "answer": "Antarctica"
+  },
+  {
+    "question": "What is the largest country by area?",
+    "answer": "Russia"
+  },
+  {
+    "question": "What is the most populous country?",
+    "answer": "China"
+  },
+  {
+    "question": "What is the largest island?",
+    "answer": "Greenland"
+  },
+  {
+    "question": "What is the largest ocean?",
+    "answer": "Pacific"
+  },
+  {
+    "question": "What is the largest continent?",
+    "answer": "Asia"
+  },
+  {
+    "question": "What is the tallest mountain?",
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "What is the longest river?",
+    "answer": "Nile"
+  },
+  {
+    "question": "What is the largest desert?",
+    "answer": "Sahara"
+  },
+  {
+    "question": "What is the smallest continent?",
+    "answer": "Australia"
+  },
+  {
+    "question": "What is the coldest continent?",
+    "answer": "Antarctica"
+  },
+  {
+    "question": "What is the largest country by area?",
+    "answer": "Russia"
+  },
+  {
+    "question": "What is the most populous country?",
+    "answer": "China"
+  },
+  {
+    "question": "What is the largest island?",
+    "answer": "Greenland"
+  },
+  {
+    "question": "What is the largest ocean?",
+    "answer": "Pacific"
+  },
+  {
+    "question": "What is the largest continent?",
+    "answer": "Asia"
+  },
+  {
+    "question": "What is the tallest mountain?",
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "What is the longest river?",
+    "answer": "Nile"
+  },
+  {
+    "question": "What is the largest desert?",
+    "answer": "Sahara"
+  },
+  {
+    "question": "What is the smallest continent?",
+    "answer": "Australia"
+  },
+  {
+    "question": "What is the coldest continent?",
+    "answer": "Antarctica"
+  },
+  {
+    "question": "What is the largest country by area?",
+    "answer": "Russia"
+  },
+  {
+    "question": "What is the most populous country?",
+    "answer": "China"
+  },
+  {
+    "question": "What is the largest island?",
+    "answer": "Greenland"
+  },
+  {
+    "question": "What is the largest ocean?",
+    "answer": "Pacific"
+  },
+  {
+    "question": "What is the largest continent?",
+    "answer": "Asia"
+  },
+  {
+    "question": "What is the tallest mountain?",
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "What is the longest river?",
+    "answer": "Nile"
+  },
+  {
+    "question": "What is the largest desert?",
+    "answer": "Sahara"
+  },
+  {
+    "question": "What is the smallest continent?",
+    "answer": "Australia"
+  },
+  {
+    "question": "What is the coldest continent?",
+    "answer": "Antarctica"
+  },
+  {
+    "question": "What is the largest country by area?",
+    "answer": "Russia"
+  },
+  {
+    "question": "What is the most populous country?",
+    "answer": "China"
+  },
+  {
+    "question": "What is the largest island?",
+    "answer": "Greenland"
+  },
+  {
+    "question": "What is the largest ocean?",
+    "answer": "Pacific"
+  },
+  {
+    "question": "What is the largest continent?",
+    "answer": "Asia"
+  },
+  {
+    "question": "What is the tallest mountain?",
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "What is the longest river?",
+    "answer": "Nile"
+  },
+  {
+    "question": "What is the largest desert?",
+    "answer": "Sahara"
+  },
+  {
+    "question": "What is the smallest continent?",
+    "answer": "Australia"
+  },
+  {
+    "question": "What is the coldest continent?",
+    "answer": "Antarctica"
+  },
+  {
+    "question": "What is the largest country by area?",
+    "answer": "Russia"
+  },
+  {
+    "question": "What is the most populous country?",
+    "answer": "China"
+  },
+  {
+    "question": "What is the largest island?",
+    "answer": "Greenland"
+  },
+  {
+    "question": "What is the largest ocean?",
+    "answer": "Pacific"
+  },
+  {
+    "question": "What is the largest continent?",
+    "answer": "Asia"
+  },
+  {
+    "question": "What is the tallest mountain?",
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "What is the longest river?",
+    "answer": "Nile"
+  },
+  {
+    "question": "What is the largest desert?",
+    "answer": "Sahara"
+  },
+  {
+    "question": "What is the smallest continent?",
+    "answer": "Australia"
+  },
+  {
+    "question": "What is the coldest continent?",
+    "answer": "Antarctica"
+  },
+  {
+    "question": "What is the largest country by area?",
+    "answer": "Russia"
+  },
+  {
+    "question": "What is the most populous country?",
+    "answer": "China"
+  },
+  {
+    "question": "What is the largest island?",
+    "answer": "Greenland"
+  },
+  {
+    "question": "What is the largest ocean?",
+    "answer": "Pacific"
+  },
+  {
+    "question": "What is the largest continent?",
+    "answer": "Asia"
+  },
+  {
+    "question": "What is the tallest mountain?",
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "What is the longest river?",
+    "answer": "Nile"
+  },
+  {
+    "question": "What is the largest desert?",
+    "answer": "Sahara"
+  },
+  {
+    "question": "What is the smallest continent?",
+    "answer": "Australia"
+  },
+  {
+    "question": "What is the coldest continent?",
+    "answer": "Antarctica"
+  },
+  {
+    "question": "What is the largest country by area?",
+    "answer": "Russia"
+  },
+  {
+    "question": "What is the most populous country?",
+    "answer": "China"
+  },
+  {
+    "question": "What is the largest island?",
+    "answer": "Greenland"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "question": "What is the speed of light?",
+    "answer": "299,792,458 m/s"
+  },
+  {
+    "question": "What is the atomic number of hydrogen?",
+    "answer": "1"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "6"
+  },
+  {
+    "question": "How many planets in the solar system?",
+    "answer": "8"
+  },
+  {
+    "question": "What is the closest planet to the sun?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the largest planet?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is Earth's natural satellite?",
+    "answer": "Moon"
+  },
+  {
+    "question": "What force keeps planets in orbit?",
+    "answer": "Gravity"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "question": "What is the speed of light?",
+    "answer": "299,792,458 m/s"
+  },
+  {
+    "question": "What is the atomic number of hydrogen?",
+    "answer": "1"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "6"
+  },
+  {
+    "question": "How many planets in the solar system?",
+    "answer": "8"
+  },
+  {
+    "question": "What is the closest planet to the sun?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the largest planet?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is Earth's natural satellite?",
+    "answer": "Moon"
+  },
+  {
+    "question": "What force keeps planets in orbit?",
+    "answer": "Gravity"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "question": "What is the speed of light?",
+    "answer": "299,792,458 m/s"
+  },
+  {
+    "question": "What is the atomic number of hydrogen?",
+    "answer": "1"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "6"
+  },
+  {
+    "question": "How many planets in the solar system?",
+    "answer": "8"
+  },
+  {
+    "question": "What is the closest planet to the sun?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the largest planet?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is Earth's natural satellite?",
+    "answer": "Moon"
+  },
+  {
+    "question": "What force keeps planets in orbit?",
+    "answer": "Gravity"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "question": "What is the speed of light?",
+    "answer": "299,792,458 m/s"
+  },
+  {
+    "question": "What is the atomic number of hydrogen?",
+    "answer": "1"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "6"
+  },
+  {
+    "question": "How many planets in the solar system?",
+    "answer": "8"
+  },
+  {
+    "question": "What is the closest planet to the sun?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the largest planet?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is Earth's natural satellite?",
+    "answer": "Moon"
+  },
+  {
+    "question": "What force keeps planets in orbit?",
+    "answer": "Gravity"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "question": "What is the speed of light?",
+    "answer": "299,792,458 m/s"
+  },
+  {
+    "question": "What is the atomic number of hydrogen?",
+    "answer": "1"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "6"
+  },
+  {
+    "question": "How many planets in the solar system?",
+    "answer": "8"
+  },
+  {
+    "question": "What is the closest planet to the sun?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the largest planet?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is Earth's natural satellite?",
+    "answer": "Moon"
+  },
+  {
+    "question": "What force keeps planets in orbit?",
+    "answer": "Gravity"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "question": "What is the speed of light?",
+    "answer": "299,792,458 m/s"
+  },
+  {
+    "question": "What is the atomic number of hydrogen?",
+    "answer": "1"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "6"
+  },
+  {
+    "question": "How many planets in the solar system?",
+    "answer": "8"
+  },
+  {
+    "question": "What is the closest planet to the sun?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the largest planet?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is Earth's natural satellite?",
+    "answer": "Moon"
+  },
+  {
+    "question": "What force keeps planets in orbit?",
+    "answer": "Gravity"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "question": "What is the speed of light?",
+    "answer": "299,792,458 m/s"
+  },
+  {
+    "question": "What is the atomic number of hydrogen?",
+    "answer": "1"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "6"
+  },
+  {
+    "question": "How many planets in the solar system?",
+    "answer": "8"
+  },
+  {
+    "question": "What is the closest planet to the sun?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the largest planet?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is Earth's natural satellite?",
+    "answer": "Moon"
+  },
+  {
+    "question": "What force keeps planets in orbit?",
+    "answer": "Gravity"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "question": "What is the speed of light?",
+    "answer": "299,792,458 m/s"
+  },
+  {
+    "question": "What is the atomic number of hydrogen?",
+    "answer": "1"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "6"
+  },
+  {
+    "question": "How many planets in the solar system?",
+    "answer": "8"
+  },
+  {
+    "question": "What is the closest planet to the sun?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the largest planet?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is Earth's natural satellite?",
+    "answer": "Moon"
+  },
+  {
+    "question": "What force keeps planets in orbit?",
+    "answer": "Gravity"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "question": "What is the speed of light?",
+    "answer": "299,792,458 m/s"
+  },
+  {
+    "question": "What is the atomic number of hydrogen?",
+    "answer": "1"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "6"
+  },
+  {
+    "question": "How many planets in the solar system?",
+    "answer": "8"
+  },
+  {
+    "question": "What is the closest planet to the sun?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the largest planet?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is Earth's natural satellite?",
+    "answer": "Moon"
+  },
+  {
+    "question": "What force keeps planets in orbit?",
+    "answer": "Gravity"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "question": "What is the speed of light?",
+    "answer": "299,792,458 m/s"
+  },
+  {
+    "question": "What is the atomic number of hydrogen?",
+    "answer": "1"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "6"
+  },
+  {
+    "question": "How many planets in the solar system?",
+    "answer": "8"
+  },
+  {
+    "question": "What is the closest planet to the sun?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the largest planet?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is Earth's natural satellite?",
+    "answer": "Moon"
+  },
+  {
+    "question": "What force keeps planets in orbit?",
+    "answer": "Gravity"
+  },
+  {
+    "question": "What is the square of 1?",
+    "answer": "1"
+  },
+  {
+    "question": "What is the square of 2?",
+    "answer": "4"
+  },
+  {
+    "question": "What is the square of 3?",
+    "answer": "9"
+  },
+  {
+    "question": "What is the square of 4?",
+    "answer": "16"
+  },
+  {
+    "question": "What is the square of 5?",
+    "answer": "25"
+  },
+  {
+    "question": "What is the square of 6?",
+    "answer": "36"
+  },
+  {
+    "question": "What is the square of 7?",
+    "answer": "49"
+  },
+  {
+    "question": "What is the square of 8?",
+    "answer": "64"
+  },
+  {
+    "question": "What is the square of 9?",
+    "answer": "81"
+  },
+  {
+    "question": "What is the square of 10?",
+    "answer": "100"
+  },
+  {
+    "question": "What is the square of 11?",
+    "answer": "121"
+  },
+  {
+    "question": "What is the square of 12?",
+    "answer": "144"
+  },
+  {
+    "question": "What is the square of 13?",
+    "answer": "169"
+  },
+  {
+    "question": "What is the square of 14?",
+    "answer": "196"
+  },
+  {
+    "question": "What is the square of 15?",
+    "answer": "225"
+  },
+  {
+    "question": "What is the square of 16?",
+    "answer": "256"
+  },
+  {
+    "question": "What is the square of 17?",
+    "answer": "289"
+  },
+  {
+    "question": "What is the square of 18?",
+    "answer": "324"
+  },
+  {
+    "question": "What is the square of 19?",
+    "answer": "361"
+  },
+  {
+    "question": "What is the square of 20?",
+    "answer": "400"
+  },
+  {
+    "question": "What is the square of 21?",
+    "answer": "441"
+  },
+  {
+    "question": "What is the square of 22?",
+    "answer": "484"
+  },
+  {
+    "question": "What is the square of 23?",
+    "answer": "529"
+  },
+  {
+    "question": "What is the square of 24?",
+    "answer": "576"
+  },
+  {
+    "question": "What is the square of 25?",
+    "answer": "625"
+  },
+  {
+    "question": "What is the square of 26?",
+    "answer": "676"
+  },
+  {
+    "question": "What is the square of 27?",
+    "answer": "729"
+  },
+  {
+    "question": "What is the square of 28?",
+    "answer": "784"
+  },
+  {
+    "question": "What is the square of 29?",
+    "answer": "841"
+  },
+  {
+    "question": "What is the square of 30?",
+    "answer": "900"
+  },
+  {
+    "question": "What is the square of 31?",
+    "answer": "961"
+  },
+  {
+    "question": "What is the square of 32?",
+    "answer": "1024"
+  },
+  {
+    "question": "What is the square of 33?",
+    "answer": "1089"
+  },
+  {
+    "question": "What is the square of 34?",
+    "answer": "1156"
+  },
+  {
+    "question": "What is the square of 35?",
+    "answer": "1225"
+  },
+  {
+    "question": "What is the square of 36?",
+    "answer": "1296"
+  },
+  {
+    "question": "What is the square of 37?",
+    "answer": "1369"
+  },
+  {
+    "question": "What is the square of 38?",
+    "answer": "1444"
+  },
+  {
+    "question": "What is the square of 39?",
+    "answer": "1521"
+  },
+  {
+    "question": "What is the square of 40?",
+    "answer": "1600"
+  },
+  {
+    "question": "What is the square of 41?",
+    "answer": "1681"
+  },
+  {
+    "question": "What is the square of 42?",
+    "answer": "1764"
+  },
+  {
+    "question": "What is the square of 43?",
+    "answer": "1849"
+  },
+  {
+    "question": "What is the square of 44?",
+    "answer": "1936"
+  },
+  {
+    "question": "What is the square of 45?",
+    "answer": "2025"
+  },
+  {
+    "question": "What is the square of 46?",
+    "answer": "2116"
+  },
+  {
+    "question": "What is the square of 47?",
+    "answer": "2209"
+  },
+  {
+    "question": "What is the square of 48?",
+    "answer": "2304"
+  },
+  {
+    "question": "What is the square of 49?",
+    "answer": "2401"
+  },
+  {
+    "question": "What is the square of 50?",
+    "answer": "2500"
+  },
+  {
+    "question": "What is the square of 51?",
+    "answer": "2601"
+  },
+  {
+    "question": "What is the square of 52?",
+    "answer": "2704"
+  },
+  {
+    "question": "What is the square of 53?",
+    "answer": "2809"
+  },
+  {
+    "question": "What is the square of 54?",
+    "answer": "2916"
+  },
+  {
+    "question": "What is the square of 55?",
+    "answer": "3025"
+  },
+  {
+    "question": "What is the square of 56?",
+    "answer": "3136"
+  },
+  {
+    "question": "What is the square of 57?",
+    "answer": "3249"
+  },
+  {
+    "question": "What is the square of 58?",
+    "answer": "3364"
+  },
+  {
+    "question": "What is the square of 59?",
+    "answer": "3481"
+  },
+  {
+    "question": "What is the square of 60?",
+    "answer": "3600"
+  },
+  {
+    "question": "What is the square of 61?",
+    "answer": "3721"
+  },
+  {
+    "question": "What is the square of 62?",
+    "answer": "3844"
+  },
+  {
+    "question": "What is the square of 63?",
+    "answer": "3969"
+  },
+  {
+    "question": "What is the square of 64?",
+    "answer": "4096"
+  },
+  {
+    "question": "What is the square of 65?",
+    "answer": "4225"
+  },
+  {
+    "question": "What is the square of 66?",
+    "answer": "4356"
+  },
+  {
+    "question": "What is the square of 67?",
+    "answer": "4489"
+  },
+  {
+    "question": "What is the square of 68?",
+    "answer": "4624"
+  },
+  {
+    "question": "What is the square of 69?",
+    "answer": "4761"
+  },
+  {
+    "question": "What is the square of 70?",
+    "answer": "4900"
+  },
+  {
+    "question": "What is the square of 71?",
+    "answer": "5041"
+  },
+  {
+    "question": "What is the square of 72?",
+    "answer": "5184"
+  },
+  {
+    "question": "What is the square of 73?",
+    "answer": "5329"
+  },
+  {
+    "question": "What is the square of 74?",
+    "answer": "5476"
+  },
+  {
+    "question": "What is the square of 75?",
+    "answer": "5625"
+  },
+  {
+    "question": "What is the square of 76?",
+    "answer": "5776"
+  },
+  {
+    "question": "What is the square of 77?",
+    "answer": "5929"
+  },
+  {
+    "question": "What is the square of 78?",
+    "answer": "6084"
+  },
+  {
+    "question": "What is the square of 79?",
+    "answer": "6241"
+  },
+  {
+    "question": "What is the square of 80?",
+    "answer": "6400"
+  },
+  {
+    "question": "What is the square of 81?",
+    "answer": "6561"
+  },
+  {
+    "question": "What is the square of 82?",
+    "answer": "6724"
+  },
+  {
+    "question": "What is the square of 83?",
+    "answer": "6889"
+  },
+  {
+    "question": "What is the square of 84?",
+    "answer": "7056"
+  },
+  {
+    "question": "What is the square of 85?",
+    "answer": "7225"
+  },
+  {
+    "question": "What is the square of 86?",
+    "answer": "7396"
+  },
+  {
+    "question": "What is the square of 87?",
+    "answer": "7569"
+  },
+  {
+    "question": "What is the square of 88?",
+    "answer": "7744"
+  },
+  {
+    "question": "What is the square of 89?",
+    "answer": "7921"
+  },
+  {
+    "question": "What is the square of 90?",
+    "answer": "8100"
+  },
+  {
+    "question": "What is the square of 91?",
+    "answer": "8281"
+  },
+  {
+    "question": "What is the square of 92?",
+    "answer": "8464"
+  },
+  {
+    "question": "What is the square of 93?",
+    "answer": "8649"
+  },
+  {
+    "question": "What is the square of 94?",
+    "answer": "8836"
+  },
+  {
+    "question": "What is the square of 95?",
+    "answer": "9025"
+  },
+  {
+    "question": "What is the square of 96?",
+    "answer": "9216"
+  },
+  {
+    "question": "What is the square of 97?",
+    "answer": "9409"
+  },
+  {
+    "question": "What is the square of 98?",
+    "answer": "9604"
+  },
+  {
+    "question": "What is the square of 99?",
+    "answer": "9801"
+  },
+  {
+    "question": "What is the square of 100?",
+    "answer": "10000"
+  }
+]

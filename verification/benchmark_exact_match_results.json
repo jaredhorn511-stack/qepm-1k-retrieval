@@ -1,0 +1,16 @@
+{
+  "retrieval_time_ms": 0.03377780090855512,
+  "median_retrieval_ms": 0.031735000050048257,
+  "min_retrieval_ms": 0.030311999921650568,
+  "max_retrieval_ms": 0.13121899996804132,
+  "p95_retrieval_ms": 0.041270799999892915,
+  "p99_retrieval_ms": 0.05266368008165045,
+  "accuracy": 1.0,
+  "throughput_retrievals_per_sec": 29605.24288443904,
+  "exact_match_pct": 1.0,
+  "avg_search_size": 19.932727272727274,
+  "strategies": {
+    "exact_text_match": 1100
+  },
+  "achieved_100_percent": true
+}
