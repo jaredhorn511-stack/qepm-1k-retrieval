@@ -1,8 +1,12 @@
 # QEPM-1K: Sub-Linear Knowledge Retrieval Code
 
-**Paper:** "Sub-Linear Knowledge Retrieval via Quantum-Inspired Hyperdimensional Folded Space"  
-**Author:** Jared Paul Horn (jaredhorn511@gmail.com)  
-**arXiv:** [arXiv:XXXX.XXXXX] (add after publication)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17848904.svg)](https://doi.org/10.5281/zenodo.17848904)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Published Research
+
+**Paper:** Horn, J.P. (2025). Sub-Linear Knowledge Retrieval via Quantum-Inspired 
+Hyperdimensional Folded Space. Zenodo. https://doi.org/10.5281/zenodo.17848904
 
 ---
 
