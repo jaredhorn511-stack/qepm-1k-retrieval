@@ -233,16 +233,18 @@ self.grid_size = 7  # Try 5, 9, 11, etc.
 
 ---
 
-## 📚 Citation
+## 📖 Citation
 
 If you use this code, please cite:
-
 ```bibtex
-@article{horn2025sublinear,
+@misc{horn2025sublinear,
   title={Sub-Linear Knowledge Retrieval via Quantum-Inspired Hyperdimensional Folded Space},
   author={Horn, Jared Paul},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2025}
+  year={2025},
+  month={December},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.17848904},
+  url={https://doi.org/10.5281/zenodo.17848904}
 }
 ```
 
@@ -252,7 +254,7 @@ If you use this code, please cite:
 
 **Jared Paul Horn**  
 Email: jaredhorn511@gmail.com  
-arXiv: [Link after publication]
+DOI: [10.5281/zenodo.17848904](https://doi.org/10.5281/zenodo.17848904)
 
 ---
 
@@ -323,3 +325,11 @@ python test_1k_folded_space.py
 ---
 
 **For questions or issues, contact: jaredhorn511@gmail.com**
+
+---
+
+## ⭐ Found This Useful?
+
+If this research helped you or you'd like to support open science, please star this repository!
+
+Questions? Open an issue or reach out: jaredhorn511@gmail.com
