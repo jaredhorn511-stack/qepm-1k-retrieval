@@ -1,0 +1,5 @@
+# QEPM-1K Requirements
+# Python 3.8+
+
+numpy>=1.21.0
+numba>=0.56.0
