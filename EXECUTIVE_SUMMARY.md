@@ -140,7 +140,7 @@ You're scaling your production-ready QEPM knowledge base from **80 pairs** to **
 ### Step 1: Build 1,000-Pair Model (5 minutes)
 
 ```bash
-cd C:\Users\Jared\Documents\Patent10-QuantumAI
+cd qepm-1k-retrieval
 python build_qepm_1k.py
 ```
 
