@@ -45,7 +45,7 @@ def generate_patterns():
         ("Jordan", "Amman"), ("Lebanon", "Beirut"), ("Syria", "Damascus"),
         ("Yemen", "Sana'a"), ("Oman", "Muscat"), ("Bahrain", "Manama"),
         ("Armenia", "Yerevan"), ("Georgia", "Tbilisi"), ("Azerbaijan", "Baku"),
-        ("Kazakhstan", "Nur-Sultan"), ("Uzbekistan", "Tashkent"), ("Turkmenistan", "Ashgabat"),
+        ("Kazakhstan", "Astana"), ("Uzbekistan", "Tashkent"), ("Turkmenistan", "Ashgabat"),
         ("Kyrgyzstan", "Bishkek"), ("Tajikistan", "Dushanbe"), ("Belarus", "Minsk"),
         ("Lithuania", "Vilnius"), ("Latvia", "Riga"), ("Estonia", "Tallinn")
     ]
